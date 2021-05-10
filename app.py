@@ -9,6 +9,7 @@ from flask import (
     request,
     url_for,
 )
+from twilio.rest import Client
 
 load_dotenv()
 app = Flask(__name__)
