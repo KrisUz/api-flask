@@ -1,6 +1,4 @@
-# Example Application - Complimentr
-
-This application is meant to be used with the [Introduction to APIs course](https://github.com/craigsdennis/intro-to-apis-course).
+# Web Application - Complimentr
 
 ## Use this on Glitch
 (import file to glitch from github)
